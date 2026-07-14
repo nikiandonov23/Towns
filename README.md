@@ -1,5 +1,5 @@
 # Towns for SoftUni
-Editor - nikiandonov23
-Shuffler - nikiandonov23
-Styler - nikiandonov23
-Team Leader - nikiandonov23
+•	{nikiandonov23} takes the role "Editor"
+•	{nikiandonov23} takes the role "Shuffler"
+•	{nikiandonov23} takes the role "Styler"
+
