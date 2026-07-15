@@ -1,2 +1,5 @@
 # Towns for SoftUni
-Code for the Git and GitHub Exercise
+•	{nikiandonov23} takes the role "Editor"
+•	{nikiandonov23} takes the role "Shuffler"
+•	{nikiandonov23} takes the role "Styler"
+
